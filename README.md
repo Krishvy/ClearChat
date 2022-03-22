@@ -1,4 +1,4 @@
 # ClearChat
-Clear that chat by simply using a command.
+Clear the chat by simply using a command.
 # Permission: 
 clearchat.use
