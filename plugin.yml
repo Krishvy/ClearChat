@@ -1,0 +1,10 @@
+name: ClearChat
+description: Clear the chat by simply using a command.
+api: 4.0.0
+version: 1.0.0
+main: Krishvy\Main
+
+permissions:
+  clearchat.use:
+    description: "Use the clear chat command"
+    default: op
